@@ -1,7 +1,6 @@
 # Кейс #7: локальный LLM-агент (LangGraph + Ollama)
 
-Команда: «Облачные воздуханы», ИТМО, курс «Облачные технологии».
-Выполнена базовая часть кейса [07-n8n-ollama](https://github.com/inview-club/devops-cases/tree/main/07-n8n-ollama).
+
 
 ## Цель
 
